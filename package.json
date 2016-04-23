@@ -1,7 +1,11 @@
 {
-  "name": "styl(a-e)-crawler",
+  "name": "style-crawler",
   "version": "0.1.1",
   "description": "creeping through like a chameleon",
+    "repository": {
+    "type": "git",
+    "url": "git@github.com:mousemke/style-crawler.git"
+  },
   "main": "crawler.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,6 +16,9 @@
     "get-image-colors": "^1.4.0",
     "nightmare": "^2.2.0",
     "true-visibility": "^0.1.1"
+  },
+    "bugs": {
+    "url": "https://github.com/mousemke/style-crawler/issues"
   },
   "files": [
     "CODE_OF_CONDUCT.md",

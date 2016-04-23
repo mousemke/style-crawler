@@ -1,7 +1,7 @@
-styl(a-e)-crawler 0.1.0
+style-crawler 0.1.1
 ======================
 
-Checks if a DOM element is truly visible
+grabs screenshots and css to produce a json file of the main styles of a website
 
 
 Installation
