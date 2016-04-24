@@ -1,5 +1,5 @@
-style-crawler 0.1.3
-======================
+style-crawler 0.1.4
+===================
 
 grabs screenshots and css to produce a json file of the main styles of a website
 
@@ -7,7 +7,7 @@ grabs screenshots and css to produce a json file of the main styles of a website
 Installation
 ------------
 
-`npm i` should work, but currently there's an issue (that admittedly i just havnt gotten to look at) about injecting a file into the nighmare instance.  it's a relative path, but demands that style-crawler be the master module, so for now i suggest you skip `npm i` and instead:
+`npm i style-crawler` should work, but currently there's an issue (that admittedly i just havnt gotten to look at) about injecting a file into the nighmare instance.  it's a relative path, but demands that style-crawler be the master module, so for now i suggest you skip npm and instead:
 
 ```
     git clone git@github.com:mousemke/style-crawler.git
